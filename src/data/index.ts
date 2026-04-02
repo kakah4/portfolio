@@ -30,7 +30,7 @@ export const projects = [
     description: "Track income and expenses with visual charts.",
     tech: ["React", "TypeScript", "Recharts"],
     github: "https://github.com/kakah4/expense-tracker",
-    live: "#",
+    live: "https://expense-tracker-trkn.vercel.app/",
     featured: true,
   },
 ];
