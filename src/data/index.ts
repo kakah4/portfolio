@@ -22,7 +22,7 @@ export const projects = [
     description: "An AI-powered tool that analyzes resumes and gives feedback.",
     tech: ["Next.js", "TypeScript", "Claude API"],
     github: "https://github.com/kakah4/ai-resume-reviewer",
-    live: "#",
+    live: "https://portfolio-coral-alpha-sszmb4jr48.vercel.app/"
     featured: true,
   },
   {
