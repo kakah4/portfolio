@@ -14,7 +14,7 @@ export const projects = [
     description: "A responsive portfolio built with Next.js and Tailwind CSS.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS"],
     github: "https://github.com/kakah4/portfolio",
-    live: "#",
+    live: "https://ai-resume-reviewer-psi.vercel.app/",
     featured: true,
   },
   {
